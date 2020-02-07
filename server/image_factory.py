@@ -1,6 +1,7 @@
+from math import atan2, cos
+
 from numba import jit
 from PIL import Image
-from math import atan2, cos
 
 MAX_ITER = 1000
 

@@ -7,9 +7,7 @@ app = Flask(__name__)
 
 @app.route('/set')
 def set_image():
-    width = request.form['width']
-    height = request.form['height']
-    return ''
+    pass
 
 
 if __name__ == '__main__':

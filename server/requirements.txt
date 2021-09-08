@@ -22,7 +22,7 @@ MarkupSafe==1.1.1
 multidict==4.7.4
 numba==0.48.0
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.3.2
 pkg-resources==0.0.0
 pytools==2020.1
 rfc3986==1.3.2
